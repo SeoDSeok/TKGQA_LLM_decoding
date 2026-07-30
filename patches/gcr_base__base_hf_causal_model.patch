@@ -1,0 +1,33 @@
+diff --git a/src/llms/base_hf_causal_model.py b/src/llms/base_hf_causal_model.py
+index c7d6ed5..370c27d 100644
+--- a/src/llms/base_hf_causal_model.py
++++ b/src/llms/base_hf_causal_model.py
+@@ -55,16 +55,24 @@ class HfCausalModel(BaseLanguageModel):
+         self.tokenizer = AutoTokenizer.from_pretrained(
+             self.args.model_path, token=HF_TOKEN, trust_remote_code=True
+         )
+-        self.model = AutoModelForCausalLM.from_pretrained(
+-            self.args.model_path,
++        # transformers>=5 removed the load_in_8bit/4bit kwargs; pass a
++        # quantization_config only when quantization is actually requested.
++        _load_kwargs = dict(
+             device_map="auto",
+             token=HF_TOKEN,
+             torch_dtype=self.DTYPE.get(self.args.dtype, None),
+-            load_in_8bit=self.args.quant == "8bit",
+-            load_in_4bit=self.args.quant == "4bit",
+             trust_remote_code=True,
+             attn_implementation=self.args.attn_implementation,
+         )
++        if self.args.quant in ("4bit", "8bit"):
++            from transformers import BitsAndBytesConfig
++            _load_kwargs["quantization_config"] = BitsAndBytesConfig(
++                load_in_8bit=self.args.quant == "8bit",
++                load_in_4bit=self.args.quant == "4bit",
++            )
++        self.model = AutoModelForCausalLM.from_pretrained(
++            self.args.model_path, **_load_kwargs
++        )
+         if self.args.use_assistant_model:
+             self.assistant_model = AutoModelForCausalLM.from_pretrained(
+                 self.args.assistant_model_path,

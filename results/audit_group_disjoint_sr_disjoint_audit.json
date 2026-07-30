@@ -1,0 +1,402 @@
+[
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-12-23",
+  "gold_t": "2015-12-08",
+  "q": "After 4 December 2015, which country did China wish to cooperate with?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2008-07-09",
+  "gold_t": "2008-06-01",
+  "q": "Who would want to engage in diplomatic cooperation with Yasuo Fukuda after 22 April 2008?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2014-07-04",
+  "gold_t": "2011-04-07",
+  "q": "Who did the New Zealand police investigate after 2010?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-12-17",
+  "gold_t": "2014-09-15",
+  "q": "After August 2014, who gave praise to the International Monetary Fund?"
+ },
+ {
+  "op": "before",
+  "k": 32,
+  "correct": 1,
+  "pick_t": "2005-01-30",
+  "gold_t": "2005-01-30",
+  "q": "Before 22 June 2007, to whom did Benazir Bhutto make a request?"
+ },
+ {
+  "op": "after",
+  "k": 23,
+  "correct": 1,
+  "pick_t": "2015-03-07",
+  "gold_t": "2010-11-03",
+  "q": "Who hosted the visit of the Grand National Party after 28 March 2010?"
+ },
+ {
+  "op": "first",
+  "k": 3,
+  "correct": 1,
+  "pick_t": "2005-03-29",
+  "gold_t": "2005-03-29",
+  "q": "When did the women of Australia first accuse the priest of Australia?"
+ },
+ {
+  "op": "after",
+  "k": 33,
+  "correct": 1,
+  "pick_t": "2013-10-21",
+  "gold_t": "2010-02-24",
+  "q": "Who hosted the visit of Rupiah Banda after 23 February 2010?"
+ },
+ {
+  "op": "after",
+  "k": 15,
+  "correct": 1,
+  "pick_t": "2015-12-14",
+  "gold_t": "2012-11-26",
+  "q": "Who was attacked with small arms and light weapons by the armed opposition of Somalia after 30 October 2012?"
+ },
+ {
+  "op": "before",
+  "k": 15,
+  "correct": 1,
+  "pick_t": "2008-02-14",
+  "gold_t": "2008-02-14",
+  "q": "Who was attacked with small arms and light weapons by the armed opposition of Somalia before Nov. 2014?"
+ },
+ {
+  "op": "before",
+  "k": 10,
+  "correct": 1,
+  "pick_t": "2005-08-02",
+  "gold_t": "2005-08-02",
+  "q": "To whom did the Business of Germany appeal before Jul, 2007?"
+ },
+ {
+  "op": "before",
+  "k": 6,
+  "correct": 1,
+  "pick_t": "2005-01-24",
+  "gold_t": "2005-01-24",
+  "q": "Before 4 January 2013, which country hosted the visit of Ed Royce?"
+ },
+ {
+  "op": "last",
+  "k": 3,
+  "correct": 1,
+  "pick_t": "2015-04-22",
+  "gold_t": "2015-04-22",
+  "q": "At what time did the Royal Administration of Nigeria last praise Emmanuel Eweta Uduaghan?"
+ },
+ {
+  "op": "after",
+  "k": 14,
+  "correct": 1,
+  "pick_t": "2013-05-30",
+  "gold_t": "2008-03-06",
+  "q": "After 26 February 2008, who formally signed an agreement with Swaziland?"
+ },
+ {
+  "op": "before",
+  "k": 8,
+  "correct": 1,
+  "pick_t": "2007-03-25",
+  "gold_t": "2007-03-25",
+  "q": "Who wanted to engage in diplomatic cooperation with the Middle East before 2013?"
+ },
+ {
+  "op": "first",
+  "k": 2,
+  "correct": 1,
+  "pick_t": "2015-01-19",
+  "gold_t": "2015-01-19",
+  "q": "When did Muhammadu Buhari first formally sign an agreement with the presidential candidate of Nigeria?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2007-01-17",
+  "gold_t": "2007-01-17",
+  "q": "Who had a telephone conversation with the Inquirer before 28 July 2008?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2005-01-25",
+  "gold_t": "2005-01-25",
+  "q": "Before Feb, 2006, with which country did Cambodia wish to establish diplomatic cooperation?"
+ },
+ {
+  "op": "after",
+  "k": 27,
+  "correct": 1,
+  "pick_t": "2015-09-08",
+  "gold_t": "2012-03-15",
+  "q": "After 6 March 2012, who made Ethiopia suffer from conventional military forces?"
+ },
+ {
+  "op": "after",
+  "k": 24,
+  "correct": 1,
+  "pick_t": "2010-01-27",
+  "gold_t": "2005-07-13",
+  "q": "With whom did Tony Blair want to participate in diplomatic cooperation after 11 July 2005?"
+ },
+ {
+  "op": "before",
+  "k": 7,
+  "correct": 1,
+  "pick_t": "2005-12-01",
+  "gold_t": "2005-12-01",
+  "q": "With whom did Adil Abdul-Mahdi want to negotiate before 26 September 2007?"
+ },
+ {
+  "op": "after",
+  "k": 8,
+  "correct": 1,
+  "pick_t": "2015-01-30",
+  "gold_t": "2012-10-12",
+  "q": "After 22 August 2011, who received humanitarian aid from the Nigerian Ministry of Education?"
+ },
+ {
+  "op": "after",
+  "k": 26,
+  "correct": 1,
+  "pick_t": "2011-01-31",
+  "gold_t": "2011-01-31",
+  "q": "Who did Omar Suleiman negotiate with after 4 November 2010?"
+ },
+ {
+  "op": "before",
+  "k": 8,
+  "correct": 1,
+  "pick_t": "2007-04-16",
+  "gold_t": "2007-04-16",
+  "q": "Before August 2010, with whom did the Nigerian government fight with small arms and light weapons?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2005-03-14",
+  "gold_t": "2005-03-14",
+  "q": "Before 2015-08, who criticised the South African police?"
+ },
+ {
+  "op": "before",
+  "k": 7,
+  "correct": 1,
+  "pick_t": "2005-01-18",
+  "gold_t": "2005-01-18",
+  "q": "Before 9 December 2005, who hosted the visit of Aleksander Kwasniewski?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-11-14",
+  "gold_t": "2015-03-30",
+  "q": "After February 2015, with whom did Agence France-Presse speak by telephone?"
+ },
+ {
+  "op": "before",
+  "k": 14,
+  "correct": 1,
+  "pick_t": "2005-09-17",
+  "gold_t": "2005-09-17",
+  "q": "Before 22 May 2015, who hosted the visit from Burundi?"
+ },
+ {
+  "op": "after",
+  "k": 6,
+  "correct": 1,
+  "pick_t": "2006-06-11",
+  "gold_t": "2006-02-07",
+  "q": "After June 2005, with whom did Hilmi Özkök want to negotiate?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-09-28",
+  "gold_t": "2015-06-15",
+  "q": "Who did the Farm Worker of Nigeria use conventional military force against after 22 May 2015?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2005-05-27",
+  "gold_t": "2005-05-27",
+  "q": "Before 1 January 2009, who suffered from the unconventional violence of the armed gang of Somalia?"
+ },
+ {
+  "op": "after",
+  "k": 14,
+  "correct": 1,
+  "pick_t": "2013-05-30",
+  "gold_t": "2013-05-22",
+  "q": "Who did Swaziland formally sign an agreement with after July, 2011?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2005-02-07",
+  "gold_t": "2005-02-07",
+  "q": "With which country did Sudan announce its intention to negotiate before 2006?"
+ },
+ {
+  "op": "after",
+  "k": 22,
+  "correct": 1,
+  "pick_t": "2015-06-08",
+  "gold_t": "2009-02-16",
+  "q": "After 2008-01, with which country did Tanzania express the intention to participate in diplomatic cooperation?"
+ },
+ {
+  "op": "before",
+  "k": 33,
+  "correct": 1,
+  "pick_t": "2008-01-28",
+  "gold_t": "2008-01-28",
+  "q": "Who hosted Rupiah Banda's visit from Rupiah Banda before Jan 18, 2010?"
+ },
+ {
+  "op": "before",
+  "k": 17,
+  "correct": 1,
+  "pick_t": "2008-02-29",
+  "gold_t": "2008-02-29",
+  "q": "To whom did the Nigerian Ministry of Foreign Affairs make optimistic comments before 22 September 2008?"
+ },
+ {
+  "op": "after",
+  "k": 10,
+  "correct": 1,
+  "pick_t": "2013-08-01",
+  "gold_t": "2009-04-09",
+  "q": "With whom did Jatuporn Prompan announce his intention to meet after December 2008?"
+ },
+ {
+  "op": "after",
+  "k": 11,
+  "correct": 1,
+  "pick_t": "2015-04-06",
+  "gold_t": "2013-08-28",
+  "q": "Who would wish to visit Djibouti after November 14, 2012?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-11-21",
+  "gold_t": "2010-05-09",
+  "q": "Who did the leader of Qatar praise after 2009?"
+ },
+ {
+  "op": "after",
+  "k": 10,
+  "correct": 1,
+  "pick_t": "2013-05-07",
+  "gold_t": "2013-05-07",
+  "q": "Who was attacked with small arms and light weapons by the armed opposition in Sudan after 2012?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-11-07",
+  "gold_t": "2012-01-25",
+  "q": "After 2011, which country suffered from Thailand's conventional military forces?"
+ },
+ {
+  "op": "after",
+  "k": 20,
+  "correct": 1,
+  "pick_t": "2015-11-17",
+  "gold_t": "2012-02-10",
+  "q": "After Feb, 2011, who received humanitarian aid from the High Commission for Refugees?"
+ },
+ {
+  "op": "before",
+  "k": 31,
+  "correct": 1,
+  "pick_t": "2005-12-21",
+  "gold_t": "2005-12-21",
+  "q": "Who did the South African police release before 21 August 2008?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-12-28",
+  "gold_t": "2015-11-09",
+  "q": "Who made Boko Haram suffer from conventional military forces after 6 November 2015?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2005-02-07",
+  "gold_t": "2005-02-07",
+  "q": "Before 27 April 2014, to whom did the Foreign Ministry of Austria make optimistic remarks?"
+ },
+ {
+  "op": "before",
+  "k": 35,
+  "correct": 1,
+  "pick_t": "2011-11-18",
+  "gold_t": "2011-11-18",
+  "q": "Who did Mario Monti negotiate with before 2012?"
+ },
+ {
+  "op": "after",
+  "k": 9,
+  "correct": 1,
+  "pick_t": "2015-12-04",
+  "gold_t": "2014-11-26",
+  "q": "With whom did John Dramani Mahama announce his intention to meet after October 2014?"
+ },
+ {
+  "op": "before",
+  "k": 14,
+  "correct": 1,
+  "pick_t": "2007-11-28",
+  "gold_t": "2007-11-28",
+  "q": "With whom did Swaziland formally sign an agreement before June 2009?"
+ },
+ {
+  "op": "after",
+  "k": 8,
+  "correct": 1,
+  "pick_t": "2013-05-21",
+  "gold_t": "2011-01-12",
+  "q": "After 18 December 2010, who wanted to cooperate with Kuwait?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2005-06-17",
+  "gold_t": "2005-06-17",
+  "q": "Before 2006-06, which country did South Africa want to cooperate with?"
+ }
+]

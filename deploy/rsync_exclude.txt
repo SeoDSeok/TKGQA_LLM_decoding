@@ -1,0 +1,29 @@
+# rsync exclude list for migrating the E1 main experiment to server 128.
+# Keeps: all code, gcr-multitq-combined adapter, discriminator ckpts,
+# data/multitq (minus training-only negatives). Everything here is either
+# re-fetchable, diagnosis-only, or not used by the end-to-end decode.
+
+# --- diagnosis/ablation LLM adapters (NOT needed for the system table) ---
+save_models/gcr-multitq-shuffled
+save_models/gcr-multitq-qwen7b
+save_models/gcr-multitq-balanced
+save_models/gcr-multitq-balanced-raw
+# Llama backbone (only for the optional TODO-P3 k-hop row; add back if wanted)
+save_models/gcr-multitq-llama
+
+# --- training-only data not used at inference/decoding ---
+data/multitq/discriminator_v0
+data/multitq/Dataset.zip
+
+# --- transfer-KG datasets (only for generality experiments, not E1 main) ---
+data/cronquestions
+data/timelinekgqa
+data/tiq
+data/timequestions
+data/wikidata_index
+
+# --- junk ---
+.git
+__pycache__
+*.pyc
+.ipynb_checkpoints

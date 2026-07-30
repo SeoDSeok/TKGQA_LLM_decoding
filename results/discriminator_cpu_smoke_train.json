@@ -1,0 +1,56 @@
+{
+  "args": {
+    "train_ops": [
+      "first",
+      "last",
+      "before",
+      "after"
+    ],
+    "eval_ops": [
+      "first",
+      "last",
+      "before",
+      "after"
+    ],
+    "fewshot_ops": [],
+    "kshot": 0,
+    "epochs": 1,
+    "bs": 64,
+    "lr": 0.0003,
+    "lam": 0.3,
+    "h": 256,
+    "layers": 2,
+    "time_mode": "bochner",
+    "cond": "polarity_signed",
+    "pointwise": false,
+    "use_leak": false,
+    "data_mode": "isolated",
+    "split_mode": "question",
+    "drop_during": false,
+    "k_max": 40,
+    "limit": 0,
+    "tag": "cpu_smoke",
+    "out": "/home/dsseo/personal_research4/save_models/discriminator",
+    "seed": 0,
+    "device": "cpu",
+    "abs_only": false
+  },
+  "history": [
+    {
+      "epoch": 0,
+      "loss": 0.21422582663346135,
+      "l_rank": 0.10481203605229275,
+      "l_bin": 0.364712616936727,
+      "auc": 0.9906173925098997,
+      "macro_top1": 99.91044776119404,
+      "late_top1": 100.0,
+      "per_op": {
+        "last": 100.0,
+        "first": 100.0,
+        "before": 99.6,
+        "after": 100.0
+      }
+    }
+  ],
+  "best_late_or_macro": 99.91044776119404
+}

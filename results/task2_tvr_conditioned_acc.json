@@ -1,0 +1,73 @@
+{
+  "alpha0": {
+    "first": {
+      "n": 200,
+      "tvr": 200,
+      "acc": 200
+    },
+    "last": {
+      "n": 200,
+      "tvr": 0,
+      "acc": 0
+    },
+    "before": {
+      "n": 200,
+      "tvr": 200,
+      "acc": 172
+    },
+    "after": {
+      "n": 200,
+      "tvr": 14,
+      "acc": 95
+    }
+  },
+  "fused": {
+    "first": {
+      "n": 200,
+      "tvr": 200,
+      "acc": 200
+    },
+    "last": {
+      "n": 200,
+      "tvr": 200,
+      "acc": 200
+    },
+    "before": {
+      "n": 200,
+      "tvr": 200,
+      "acc": 172
+    },
+    "after": {
+      "n": 200,
+      "tvr": 200,
+      "acc": 178
+    }
+  },
+  "conv": {
+    "first": {
+      "vt": 200,
+      "vf": 0,
+      "vt_acc": 200,
+      "vf_acc": 0
+    },
+    "last": {
+      "vt": 0,
+      "vf": 200,
+      "vt_acc": 0,
+      "vf_acc": 0
+    },
+    "before": {
+      "vt": 200,
+      "vf": 0,
+      "vt_acc": 172,
+      "vf_acc": 0
+    },
+    "after": {
+      "vt": 14,
+      "vf": 186,
+      "vt_acc": 12,
+      "vf_acc": 83
+    }
+  },
+  "alpha": 0.5
+}

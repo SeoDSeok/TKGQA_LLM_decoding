@@ -1,0 +1,88 @@
+{
+  "args": {
+    "train_ops": [
+      "first",
+      "last",
+      "before",
+      "after",
+      "during"
+    ],
+    "eval_ops": [
+      "first",
+      "last",
+      "before",
+      "after",
+      "during"
+    ],
+    "fewshot_ops": [],
+    "kshot": 0,
+    "epochs": 3,
+    "bs": 64,
+    "lr": 0.0003,
+    "lam": 0.3,
+    "h": 256,
+    "layers": 2,
+    "time_mode": "bochner",
+    "cond": "polarity_interval",
+    "pointwise": false,
+    "use_leak": false,
+    "data_mode": "interval",
+    "drop_during": false,
+    "k_max": 40,
+    "limit": 0,
+    "tag": "iv_smoke",
+    "out": "/home/dsseo/personal_research4/save_models/discriminator",
+    "seed": 0
+  },
+  "history": [
+    {
+      "epoch": 0,
+      "loss": 0.37356258137512577,
+      "l_rank": 0.26409801320252263,
+      "l_bin": 0.3648818793684937,
+      "auc": 0.9748219730663518,
+      "macro_top1": 97.43906534841997,
+      "late_top1": 99.40845070422534,
+      "per_op": {
+        "last": 100.0,
+        "first": 100.0,
+        "before": 97.4,
+        "after": 98.8,
+        "during": 91.0
+      }
+    },
+    {
+      "epoch": 1,
+      "loss": 0.14262541026858858,
+      "l_rank": 0.07523567773863789,
+      "l_bin": 0.22463243194790775,
+      "auc": 0.9939212934261793,
+      "macro_top1": 98.74649911631202,
+      "late_top1": 99.97183098591549,
+      "per_op": {
+        "last": 100.0,
+        "first": 100.0,
+        "before": 97.5,
+        "after": 99.9,
+        "during": 96.3
+      }
+    },
+    {
+      "epoch": 2,
+      "loss": 0.08211222975406536,
+      "l_rank": 0.04006594323278802,
+      "l_bin": 0.14015428334936614,
+      "auc": 0.9960287018314539,
+      "macro_top1": 99.59963028586111,
+      "late_top1": 99.97183098591549,
+      "per_op": {
+        "last": 100.0,
+        "first": 100.0,
+        "before": 99.6,
+        "after": 99.9,
+        "during": 98.4
+      }
+    }
+  ],
+  "best_late_or_macro": 99.59963028586111
+}

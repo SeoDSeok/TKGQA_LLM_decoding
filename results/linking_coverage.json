@@ -1,0 +1,44 @@
+{
+  "n": 2000,
+  "k": 2,
+  "overall": 0.9995,
+  "mean_topics": 9.5405,
+  "by_answer_type": {
+    "entity": 0.9992942836979535,
+    "time": 1.0
+  },
+  "by_qtype": {
+    "after_first": 1.0,
+    "first_last": 0.9974874371859297,
+    "before_last": 1.0,
+    "before_after": 1.0,
+    "equal_multi": 1.0,
+    "equal": 1.0
+  },
+  "by_qtype_counts": {
+    "after_first": [
+      237,
+      237
+    ],
+    "first_last": [
+      397,
+      398
+    ],
+    "before_last": [
+      217,
+      217
+    ],
+    "before_after": [
+      402,
+      402
+    ],
+    "equal_multi": [
+      111,
+      111
+    ],
+    "equal": [
+      635,
+      635
+    ]
+  }
+}

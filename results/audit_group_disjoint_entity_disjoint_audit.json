@@ -1,0 +1,402 @@
+[
+ {
+  "op": "first",
+  "k": 2,
+  "correct": 1,
+  "pick_t": "2009-04-29",
+  "gold_t": "2009-04-29",
+  "q": "When did Shimon Peres visit Barack Obama for the first time?"
+ },
+ {
+  "op": "before",
+  "k": 13,
+  "correct": 1,
+  "pick_t": "2005-01-14",
+  "gold_t": "2005-01-14",
+  "q": "Who did the Al-Aqsa Martyrs Brigades attack with small arms and light weapons before 30 June 2006?"
+ },
+ {
+  "op": "first",
+  "k": 4,
+  "correct": 1,
+  "pick_t": "2005-03-21",
+  "gold_t": "2005-03-21",
+  "q": "At what time did the Government of Nigeria first appeal to the Ministry of Nigerian Affairs?"
+ },
+ {
+  "op": "after",
+  "k": 18,
+  "correct": 1,
+  "pick_t": "2015-12-28",
+  "gold_t": "2010-07-01",
+  "q": "After 29 December 2009, who wanted to engage in diplomatic cooperation with the government of Pakistan?"
+ },
+ {
+  "op": "before",
+  "k": 10,
+  "correct": 1,
+  "pick_t": "2005-09-28",
+  "gold_t": "2005-09-28",
+  "q": "Who hosted the visit of Ricardo Cabrisas before August 2013?"
+ },
+ {
+  "op": "last",
+  "k": 3,
+  "correct": 1,
+  "pick_t": "2009-10-29",
+  "gold_t": "2009-10-29",
+  "q": "When was the last time the insurgent in Thailand used small arms and light weapons to attack the company - owner or operator of Thailand?"
+ },
+ {
+  "op": "after",
+  "k": 10,
+  "correct": 1,
+  "pick_t": "2015-03-09",
+  "gold_t": "2008-09-23",
+  "q": "Which country hosted the visit of Ricardo Cabrisas after 25 September 2006?"
+ },
+ {
+  "op": "last",
+  "k": 2,
+  "correct": 1,
+  "pick_t": "2012-07-29",
+  "gold_t": "2012-07-29",
+  "q": "When did Angela Merkel last denounce the European Central Bank?"
+ },
+ {
+  "op": "first",
+  "k": 2,
+  "correct": 1,
+  "pick_t": "2005-07-15",
+  "gold_t": "2005-07-15",
+  "q": "When did the Romanian Ministry sign the first formal agreement with Renaud Donnedieu de Vabres?"
+ },
+ {
+  "op": "before",
+  "k": 11,
+  "correct": 1,
+  "pick_t": "2005-02-24",
+  "gold_t": "2005-02-24",
+  "q": "Who made an appeal to Lien Chan before 2011?"
+ },
+ {
+  "op": "before",
+  "k": 6,
+  "correct": 1,
+  "pick_t": "2008-07-09",
+  "gold_t": "2008-07-09",
+  "q": "Before 2009-01, with whom did Radoslaw Sikorski have a telephone conversation?"
+ },
+ {
+  "op": "after",
+  "k": 6,
+  "correct": 1,
+  "pick_t": "2015-03-02",
+  "gold_t": "2014-09-09",
+  "q": "Who signed an agreement with the business of Argentina after 29 July 2010?"
+ },
+ {
+  "op": "first",
+  "k": 2,
+  "correct": 1,
+  "pick_t": "2006-01-17",
+  "gold_t": "2006-01-17",
+  "q": "When did the Royal Administration of Saudi Arabia first express its intention to negotiate with China?"
+ },
+ {
+  "op": "first",
+  "k": 2,
+  "correct": 1,
+  "pick_t": "2005-09-02",
+  "gold_t": "2005-09-02",
+  "q": "When did Tony Blair first praise Gerhard Schröder?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-08-13",
+  "gold_t": "2009-03-19",
+  "q": "After January 2009, to whom did Tony Blair make an appeal?"
+ },
+ {
+  "op": "after",
+  "k": 15,
+  "correct": 1,
+  "pick_t": "2007-10-20",
+  "gold_t": "2007-04-20",
+  "q": "After 1 January 2007, to whom did Shaukat Aziz make a request?"
+ },
+ {
+  "op": "before",
+  "k": 5,
+  "correct": 1,
+  "pick_t": "2012-05-21",
+  "gold_t": "2012-05-21",
+  "q": "Who received Abdirahman Mohamed Farole's visit from Abdirahman Mohamed Farole before September 26th, 2013?"
+ },
+ {
+  "op": "before",
+  "k": 11,
+  "correct": 1,
+  "pick_t": "2007-02-07",
+  "gold_t": "2007-02-07",
+  "q": "Before 29 April 2015, to whom did the Ministry of Liberia make an appeal?"
+ },
+ {
+  "op": "last",
+  "k": 3,
+  "correct": 1,
+  "pick_t": "2009-01-07",
+  "gold_t": "2009-01-07",
+  "q": "When did Mahmoud Abbas last express his intention to negotiate with Juan Carlos I?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2005-01-04",
+  "gold_t": "2005-01-04",
+  "q": "Who did Muhammadu Buhari appeal for before Apr 27th, 2007?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-12-21",
+  "gold_t": "2014-08-01",
+  "q": "Who did the Nigerian government investigate after 23 May 2014?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2009-04-23",
+  "gold_t": "2006-04-25",
+  "q": "Which country did Mexico make negative remarks about after 20 April 2006?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2013-03-27",
+  "gold_t": "2013-03-27",
+  "q": "To whom did Umaru Musa Yar'Adua make an appeal after 2010?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-11-06",
+  "gold_t": "2010-02-23",
+  "q": "After December 2009, with which country has Kazakhstan expressed an interest in cooperation?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-12-30",
+  "gold_t": "2015-12-18",
+  "q": "After 17 December 2015, who did the police of Australia appeal to?"
+ },
+ {
+  "op": "after",
+  "k": 7,
+  "correct": 1,
+  "pick_t": "2010-06-21",
+  "gold_t": "2010-03-05",
+  "q": "Who did Okada Katsuya want to cooperate with after 26 February 2010?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-09-15",
+  "gold_t": "2011-03-06",
+  "q": "Who spoke to the Inquirer by telephone after 16 February 2011?"
+ },
+ {
+  "op": "after",
+  "k": 17,
+  "correct": 1,
+  "pick_t": "2012-08-17",
+  "gold_t": "2012-04-19",
+  "q": "After March 2012, who did Yoshihiko Noda make optimistic remarks about?"
+ },
+ {
+  "op": "after",
+  "k": 5,
+  "correct": 1,
+  "pick_t": "2010-03-28",
+  "gold_t": "2008-05-19",
+  "q": "After 2007, which country received the visit from Sérgio de Oliveira Cabral Santos Filho?"
+ },
+ {
+  "op": "after",
+  "k": 25,
+  "correct": 1,
+  "pick_t": "2015-12-02",
+  "gold_t": "2013-09-22",
+  "q": "Who did Zhang Dejiang want to negotiate with after 10 September 2013?"
+ },
+ {
+  "op": "before",
+  "k": 8,
+  "correct": 1,
+  "pick_t": "2005-08-13",
+  "gold_t": "2005-08-13",
+  "q": "Before 2007, who was attacked by the armed opposition in Sri Lanka with small arms and light weapons?"
+ },
+ {
+  "op": "first",
+  "k": 2,
+  "correct": 1,
+  "pick_t": "2012-02-17",
+  "gold_t": "2012-02-17",
+  "q": "When did the Nepalese mob first accuse the women of Nepal?"
+ },
+ {
+  "op": "last",
+  "k": 3,
+  "correct": 1,
+  "pick_t": "2014-05-13",
+  "gold_t": "2014-05-13",
+  "q": "When did Uhuru Muigai Kenyatta last praise China?"
+ },
+ {
+  "op": "after",
+  "k": 29,
+  "correct": 1,
+  "pick_t": "2012-11-19",
+  "gold_t": "2011-10-01",
+  "q": "After 26 September 2011, who wanted to participate in diplomatic cooperation with Yoshihiko Noda?"
+ },
+ {
+  "op": "before",
+  "k": 15,
+  "correct": 1,
+  "pick_t": "2005-04-30",
+  "gold_t": "2005-04-30",
+  "q": "Before 12 March 2008, with whom did Mahmoud Abbas wish to engage in diplomatic cooperation?"
+ },
+ {
+  "op": "before",
+  "k": 13,
+  "correct": 1,
+  "pick_t": "2005-03-02",
+  "gold_t": "2005-03-02",
+  "q": "Who did Oluṣẹgun Ọbasanjọ investigate before 28 March 2006?"
+ },
+ {
+  "op": "after",
+  "k": 38,
+  "correct": 1,
+  "pick_t": "2015-08-25",
+  "gold_t": "2015-08-23",
+  "q": "After 2014, which country hosted the visit of Kazakhstan?"
+ },
+ {
+  "op": "before",
+  "k": 20,
+  "correct": 1,
+  "pick_t": "2006-09-16",
+  "gold_t": "2006-09-16",
+  "q": "Who had a telephone conversation with the Royal Administration of Saudi Arabia before 20 September 2009?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-09-04",
+  "gold_t": "2015-08-26",
+  "q": "Which country received the visit from Lien Chan after 2014?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2005-04-22",
+  "gold_t": "2005-04-22",
+  "q": "With which country did Kazakhstan seek diplomatic cooperation before 1 November 2005?"
+ },
+ {
+  "op": "before",
+  "k": 13,
+  "correct": 1,
+  "pick_t": "2011-08-11",
+  "gold_t": "2011-08-11",
+  "q": "Before 25 April 2014, to whom did the Nigerian Medical Association make an appeal?"
+ },
+ {
+  "op": "after",
+  "k": 5,
+  "correct": 1,
+  "pick_t": "2015-11-23",
+  "gold_t": "2014-04-21",
+  "q": "Who did the criminal of Mali use unconventional violence against after January 2011?"
+ },
+ {
+  "op": "before",
+  "k": 8,
+  "correct": 1,
+  "pick_t": "2006-09-27",
+  "gold_t": "2006-09-27",
+  "q": "Before 12 September 2011, to whom did the activist from Australia make a request?"
+ },
+ {
+  "op": "after",
+  "k": 37,
+  "correct": 1,
+  "pick_t": "2015-10-13",
+  "gold_t": "2011-03-18",
+  "q": "After December 2010, with whom did the Congress of the United States want to meet?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-01-28",
+  "gold_t": "2014-03-06",
+  "q": "After 28 February 2014, with whom did Radoslaw Sikorski announce his intention to negotiate?"
+ },
+ {
+  "op": "first",
+  "k": 4,
+  "correct": 1,
+  "pick_t": "2010-05-20",
+  "gold_t": "2010-05-20",
+  "q": "When did the envoy of the United States visit Mahmoud Abbas for the first time?"
+ },
+ {
+  "op": "first",
+  "k": 3,
+  "correct": 1,
+  "pick_t": "2008-04-08",
+  "gold_t": "2008-04-08",
+  "q": "When did Angela Merkel first express her intention to negotiate with Jens Stoltenberg?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-11-16",
+  "gold_t": "2014-10-03",
+  "q": "After the 10th of September 2014, who did the Ministry of Nigeria praise?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-12-21",
+  "gold_t": "2013-02-07",
+  "q": "Who did Oluṣẹgun Ọbasanjọ praise after 15 November 2012?"
+ },
+ {
+  "op": "after",
+  "k": 11,
+  "correct": 1,
+  "pick_t": "2013-10-22",
+  "gold_t": "2011-11-23",
+  "q": "After 22 November 2011, with whom did the Ministry of Foreign Affairs of Romania declare its intention to negotiate?"
+ }
+]

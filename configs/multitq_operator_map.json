@@ -1,0 +1,105 @@
+{
+  "multitq_operator_map": [
+    {
+      "qtype": "equal",
+      "primary_operator": "equal",
+      "interval_op": "equal",
+      "ordering": null,
+      "operators": [
+        "equal"
+      ],
+      "complexity": 0,
+      "note": "single time anchor equality (granularity-aware)",
+      "counts": {
+        "train": 135890,
+        "dev": 18983,
+        "test": 17311
+      }
+    },
+    {
+      "qtype": "before_after",
+      "primary_operator": "RESOLVE_BA",
+      "interval_op": "RESOLVE_BA",
+      "ordering": null,
+      "operators": [
+        "before",
+        "after"
+      ],
+      "complexity": 1,
+      "note": "interval filter only; before/after disambiguated by question text",
+      "counts": {
+        "train": 75340,
+        "dev": 11655,
+        "test": 11073
+      }
+    },
+    {
+      "qtype": "after_first",
+      "primary_operator": "first",
+      "interval_op": "after",
+      "ordering": "first",
+      "operators": [
+        "after",
+        "first"
+      ],
+      "complexity": 2,
+      "note": "composite: after(anchor) then first among survivors",
+      "counts": {
+        "train": 43305,
+        "dev": 6499,
+        "test": 6266
+      }
+    },
+    {
+      "qtype": "before_last",
+      "primary_operator": "last",
+      "interval_op": "before",
+      "ordering": "last",
+      "operators": [
+        "before",
+        "last"
+      ],
+      "complexity": 2,
+      "note": "composite: before(anchor) then last among survivors",
+      "counts": {
+        "train": 43107,
+        "dev": 6532,
+        "test": 6247
+      }
+    },
+    {
+      "qtype": "first_last",
+      "primary_operator": "RESOLVE_FL",
+      "interval_op": null,
+      "ordering": "RESOLVE_FL",
+      "operators": [
+        "first",
+        "last"
+      ],
+      "complexity": 2,
+      "note": "pure ordering selector; needs candidate fact set",
+      "counts": {
+        "train": 72252,
+        "dev": 11097,
+        "test": 10480
+      }
+    },
+    {
+      "qtype": "equal_multi",
+      "primary_operator": "multi",
+      "interval_op": "equal",
+      "ordering": null,
+      "operators": [
+        "equal",
+        "multi"
+      ],
+      "complexity": 3,
+      "note": "equality against multiple anchors / multi-answer; checked as multi(equal)",
+      "counts": {
+        "train": 16893,
+        "dev": 3213,
+        "test": 3207
+      }
+    }
+  ]
+}

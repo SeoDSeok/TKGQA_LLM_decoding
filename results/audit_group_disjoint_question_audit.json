@@ -1,0 +1,402 @@
+[
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-12-19",
+  "gold_t": "2013-04-09",
+  "q": "Which country did Oman wish to meet with after November 2012?"
+ },
+ {
+  "op": "after",
+  "k": 34,
+  "correct": 1,
+  "pick_t": "2015-02-23",
+  "gold_t": "2010-06-26",
+  "q": "After 18 June 2010, with whom has Djibouti signed formal agreements?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-08-05",
+  "gold_t": "2014-11-17",
+  "q": "After 13 November 2014, with which country did Malaysia declare its intention to engage in diplomatic cooperation?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2005-09-26",
+  "gold_t": "2005-09-26",
+  "q": "Before 2006, which country did Ethiopia accuse?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2005-02-04",
+  "gold_t": "2005-02-04",
+  "q": "Before 8 July 2005, with which country did Ethiopia announce its intention to negotiate?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2005-01-12",
+  "gold_t": "2005-01-12",
+  "q": "Before 29 March 2005, which country formally signed an agreement with Kuwait?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2005-01-25",
+  "gold_t": "2005-01-25",
+  "q": "Before Feb, 2006, which country did Cambodia want to participate in diplomatic cooperation with?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-08-09",
+  "gold_t": "2015-01-15",
+  "q": "After March, the year 2014, which country did Malaysia make a request to?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2006-02-07",
+  "gold_t": "2006-02-07",
+  "q": "Which country did Oman negotiate with before Aug, 2013?"
+ },
+ {
+  "op": "after",
+  "k": 16,
+  "correct": 1,
+  "pick_t": "2011-11-10",
+  "gold_t": "2006-06-29",
+  "q": "After 5 June 2006, which country did Malaysia release people to?"
+ },
+ {
+  "op": "before",
+  "k": 23,
+  "correct": 1,
+  "pick_t": "2005-03-15",
+  "gold_t": "2005-03-15",
+  "q": "Which country did Oman engage in negotiation with before 2008?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2005-01-03",
+  "gold_t": "2005-01-03",
+  "q": "With which country did Iraq sign an agreement before 24 November 2005?"
+ },
+ {
+  "op": "before",
+  "k": 17,
+  "correct": 1,
+  "pick_t": "2005-01-15",
+  "gold_t": "2005-01-15",
+  "q": "Before 6 March 2008, which country did Iraq make optimistic statements about?"
+ },
+ {
+  "op": "last",
+  "k": 4,
+  "correct": 1,
+  "pick_t": "2014-05-19",
+  "gold_t": "2014-05-19",
+  "q": "When did Iraq last appeal to Nuri al-Maliki?"
+ },
+ {
+  "op": "after",
+  "k": 16,
+  "correct": 1,
+  "pick_t": "2011-11-10",
+  "gold_t": "2010-04-28",
+  "q": "After 2008-03, to which country did Malaysia return people?"
+ },
+ {
+  "op": "before",
+  "k": 34,
+  "correct": 1,
+  "pick_t": "2005-02-02",
+  "gold_t": "2005-02-02",
+  "q": "Before 25 October 2005, with whom did Djibouti formally sign an agreement?"
+ },
+ {
+  "op": "before",
+  "k": 8,
+  "correct": 1,
+  "pick_t": "2005-05-19",
+  "gold_t": "2005-05-19",
+  "q": "Before July 2008, who wanted to cooperate with Kuwait?"
+ },
+ {
+  "op": "after",
+  "k": 10,
+  "correct": 1,
+  "pick_t": "2015-01-07",
+  "gold_t": "2007-04-29",
+  "q": "With which country did Iraq hold a telephone conversation after 28 January 2007?"
+ },
+ {
+  "op": "last",
+  "k": 4,
+  "correct": 1,
+  "pick_t": "2009-06-26",
+  "gold_t": "2009-06-26",
+  "q": "When did China last praise Mahmoud Ahmadinejad?"
+ },
+ {
+  "op": "first",
+  "k": 4,
+  "correct": 1,
+  "pick_t": "2008-02-18",
+  "gold_t": "2008-02-18",
+  "q": "When did Northern Ireland first express its intention to negotiate with Thailand?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2005-04-03",
+  "gold_t": "2005-04-03",
+  "q": "With which country did Kuwait declare its intention to establish diplomatic cooperation before 1 March 2006?"
+ },
+ {
+  "op": "last",
+  "k": 2,
+  "correct": 1,
+  "pick_t": "2010-05-25",
+  "gold_t": "2010-05-25",
+  "q": "When did Cambodia last make an appeal to the Cambodian police?"
+ },
+ {
+  "op": "after",
+  "k": 27,
+  "correct": 1,
+  "pick_t": "2015-09-08",
+  "gold_t": "2010-03-16",
+  "q": "Who used unconventional force against Ethiopia after 2008?"
+ },
+ {
+  "op": "before",
+  "k": 6,
+  "correct": 1,
+  "pick_t": "2005-02-03",
+  "gold_t": "2005-02-03",
+  "q": "Which country wanted to cooperate with Thailand before 28 March 2005?"
+ },
+ {
+  "op": "before",
+  "k": 23,
+  "correct": 1,
+  "pick_t": "2006-02-14",
+  "gold_t": "2006-02-14",
+  "q": "Before 26 August 2011, who made an appeal to Kuwait?"
+ },
+ {
+  "op": "first",
+  "k": 2,
+  "correct": 1,
+  "pick_t": "2015-05-25",
+  "gold_t": "2015-05-25",
+  "q": "When did the immigrants from Myanmar first express their intention to negotiate with Thailand?"
+ },
+ {
+  "op": "first",
+  "k": 4,
+  "correct": 1,
+  "pick_t": "2009-03-11",
+  "gold_t": "2009-03-11",
+  "q": "When did Stephen W Bosworth first visit China?"
+ },
+ {
+  "op": "after",
+  "k": 37,
+  "correct": 1,
+  "pick_t": "2015-12-16",
+  "gold_t": "2014-02-15",
+  "q": "After Aug 26th, 2013, which country received Oman's visit from Oman?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-12-24",
+  "gold_t": "2015-12-03",
+  "q": "After November 2015, which country did China want to cooperate with?"
+ },
+ {
+  "op": "first",
+  "k": 3,
+  "correct": 1,
+  "pick_t": "2008-06-04",
+  "gold_t": "2008-06-04",
+  "q": "When did Kuwait first formally sign an agreement with Oman?"
+ },
+ {
+  "op": "last",
+  "k": 3,
+  "correct": 1,
+  "pick_t": "2005-06-03",
+  "gold_t": "2005-06-03",
+  "q": "When was Mitch McConnell's last visit to Iraq?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2005-01-21",
+  "gold_t": "2005-01-10",
+  "q": "Before October 2005, which country did Thailand make optimistic comments about?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2005-01-24",
+  "gold_t": "2005-01-24",
+  "q": "Before 17 October 2005, who hosted the visit of Thailand?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-12-30",
+  "gold_t": "2015-03-24",
+  "q": "After 23 March 2015, with which country did Ethiopia sign an agreement?"
+ },
+ {
+  "op": "after",
+  "k": 9,
+  "correct": 1,
+  "pick_t": "2015-10-15",
+  "gold_t": "2013-06-05",
+  "q": "After Feb 12th, 2011, which country did Malaysia accuse?"
+ },
+ {
+  "op": "first",
+  "k": 2,
+  "correct": 1,
+  "pick_t": "2007-07-30",
+  "gold_t": "2007-07-30",
+  "q": "When did China first use conventional military force against Vietnamese fishermen?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2005-01-07",
+  "gold_t": "2005-01-07",
+  "q": "Before 14 January 2005, who wanted to negotiate with China?"
+ },
+ {
+  "op": "before",
+  "k": 10,
+  "correct": 1,
+  "pick_t": "2005-10-28",
+  "gold_t": "2005-10-28",
+  "q": "Before 2007-02, which country announced its intention to establish diplomatic cooperation with Comoros?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2005-01-21",
+  "gold_t": "2005-01-21",
+  "q": "With which country did Thailand formally sign an agreement before July 2005?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2005-01-07",
+  "gold_t": "2005-01-07",
+  "q": "Before March 2005, with which country did China express an intention to meet?"
+ },
+ {
+  "op": "before",
+  "k": 9,
+  "correct": 1,
+  "pick_t": "2005-02-16",
+  "gold_t": "2005-02-16",
+  "q": "Which country wanted to participate in diplomatic cooperation with Djibouti before 2009-12?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2005-04-06",
+  "gold_t": "2005-04-06",
+  "q": "To which country did China provide humanitarian aid before 22 May 2006?"
+ },
+ {
+  "op": "before",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2007-01-17",
+  "gold_t": "2007-01-17",
+  "q": "Who had a telephone conversation with the Inquirer before 3 December 2007?"
+ },
+ {
+  "op": "before",
+  "k": 27,
+  "correct": 1,
+  "pick_t": "2005-04-01",
+  "gold_t": "2005-04-01",
+  "q": "Which country suffered from Ethiopia's conventional military forces before December 2006?"
+ },
+ {
+  "op": "first",
+  "k": 2,
+  "correct": 1,
+  "pick_t": "2009-02-09",
+  "gold_t": "2009-02-09",
+  "q": "When did Abu Bakr Abdullah al-Qirbi first praise Kuwait?"
+ },
+ {
+  "op": "after",
+  "k": 40,
+  "correct": 1,
+  "pick_t": "2015-09-26",
+  "gold_t": "2015-01-07",
+  "q": "Which country hosted the visit of Malaysia after 2014?"
+ },
+ {
+  "op": "after",
+  "k": 25,
+  "correct": 1,
+  "pick_t": "2015-07-13",
+  "gold_t": "2006-06-21",
+  "q": "With whom did Burundi formally sign an agreement after 1 April 2006?"
+ },
+ {
+  "op": "first",
+  "k": 3,
+  "correct": 1,
+  "pick_t": "2008-11-28",
+  "gold_t": "2008-11-28",
+  "q": "At what time did Thailand first appeal the Protester of Thailand?"
+ },
+ {
+  "op": "before",
+  "k": 39,
+  "correct": 1,
+  "pick_t": "2005-01-12",
+  "gold_t": "2005-01-12",
+  "q": "Who was optimistic about Malaysia before 2007?"
+ },
+ {
+  "op": "first",
+  "k": 4,
+  "correct": 1,
+  "pick_t": "2005-10-26",
+  "gold_t": "2005-10-26",
+  "q": "When did Benedict XVI first express his intention to negotiate with China?"
+ }
+]

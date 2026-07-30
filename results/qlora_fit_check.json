@@ -1,0 +1,11 @@
+{
+  "base": "Qwen/Qwen2.5-7B-Instruct",
+  "steps": 40,
+  "bs": 2,
+  "loss_start": 3.0446,
+  "loss_end": 0.6326,
+  "peak_alloc_GB": 19.41,
+  "peak_reserved_GB": 22.75,
+  "sec_per_step": 0.406,
+  "n_examples": 833
+}

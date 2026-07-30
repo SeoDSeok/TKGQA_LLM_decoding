@@ -1,0 +1,174 @@
+{
+  "global": {
+    "0.0": {
+      "first": {
+        "n": 150,
+        "hit": 81,
+        "struct": 149,
+        "temp": 81
+      },
+      "last": {
+        "n": 150,
+        "hit": 55,
+        "struct": 150,
+        "temp": 55
+      }
+    },
+    "0.2": {
+      "first": {
+        "n": 150,
+        "hit": 29,
+        "struct": 39,
+        "temp": 29
+      },
+      "last": {
+        "n": 150,
+        "hit": 24,
+        "struct": 41,
+        "temp": 24
+      }
+    },
+    "0.5": {
+      "first": {
+        "n": 150,
+        "hit": 17,
+        "struct": 17,
+        "temp": 17
+      },
+      "last": {
+        "n": 150,
+        "hit": 11,
+        "struct": 12,
+        "temp": 11
+      }
+    },
+    "1.0": {
+      "first": {
+        "n": 150,
+        "hit": 15,
+        "struct": 15,
+        "temp": 16
+      },
+      "last": {
+        "n": 150,
+        "hit": 9,
+        "struct": 9,
+        "temp": 9
+      }
+    },
+    "2.0": {
+      "first": {
+        "n": 150,
+        "hit": 14,
+        "struct": 14,
+        "temp": 15
+      },
+      "last": {
+        "n": 150,
+        "hit": 7,
+        "struct": 7,
+        "temp": 7
+      }
+    },
+    "5.0": {
+      "first": {
+        "n": 150,
+        "hit": 13,
+        "struct": 13,
+        "temp": 14
+      },
+      "last": {
+        "n": 150,
+        "hit": 7,
+        "struct": 7,
+        "temp": 7
+      }
+    }
+  },
+  "trielocal": {
+    "0.0": {
+      "first": {
+        "n": 150,
+        "hit": 81,
+        "struct": 149,
+        "temp": 81
+      },
+      "last": {
+        "n": 150,
+        "hit": 55,
+        "struct": 150,
+        "temp": 55
+      }
+    },
+    "0.2": {
+      "first": {
+        "n": 150,
+        "hit": 148,
+        "struct": 149,
+        "temp": 148
+      },
+      "last": {
+        "n": 150,
+        "hit": 150,
+        "struct": 150,
+        "temp": 150
+      }
+    },
+    "0.5": {
+      "first": {
+        "n": 150,
+        "hit": 147,
+        "struct": 147,
+        "temp": 147
+      },
+      "last": {
+        "n": 150,
+        "hit": 148,
+        "struct": 148,
+        "temp": 148
+      }
+    },
+    "1.0": {
+      "first": {
+        "n": 150,
+        "hit": 145,
+        "struct": 145,
+        "temp": 145
+      },
+      "last": {
+        "n": 150,
+        "hit": 144,
+        "struct": 144,
+        "temp": 144
+      }
+    },
+    "2.0": {
+      "first": {
+        "n": 150,
+        "hit": 136,
+        "struct": 136,
+        "temp": 136
+      },
+      "last": {
+        "n": 150,
+        "hit": 140,
+        "struct": 140,
+        "temp": 140
+      }
+    },
+    "5.0": {
+      "first": {
+        "n": 150,
+        "hit": 134,
+        "struct": 134,
+        "temp": 134
+      },
+      "last": {
+        "n": 150,
+        "hit": 138,
+        "struct": 138,
+        "temp": 138
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "base": "rmanluo/GCR-Meta-Llama-3.1-8B-Instruct",
+  "examples": 3264,
+  "opt_steps": 612,
+  "effective_batch": 16,
+  "loss_start": 6.2329,
+  "loss_end": 0.439,
+  "new_tok_grad_norm_mean": 1.346188,
+  "new_tok_grad_norm_nonzero": true,
+  "peak_alloc_GB": 19.22,
+  "peak_reserved_GB": 24.6,
+  "minutes": 36.99,
+  "out": "save_models/gcr-multitq-llama"
+}

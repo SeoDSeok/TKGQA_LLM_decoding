@@ -1,0 +1,75 @@
+# ─────────────────────────────────────────────────────────────
+# Large artifacts — NOT published (model weights, datasets, dumps)
+# ─────────────────────────────────────────────────────────────
+save_models/
+data/
+timer4/datasets/
+timer4/results/
+timer4/llms/language_models/
+
+# Model / data binaries (anywhere)
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+*.pkl
+*.pickle
+*.npy
+*.npz
+*.h5
+*.arrow
+
+# Large serialized outputs / archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+results/*.jsonl
+results/timer4_rerank_dump.jsonl
+
+# ─────────────────────────────────────────────────────────────
+# Secrets / local env
+# ─────────────────────────────────────────────────────────────
+.env
+*.env
+!.env.example
+*.key
+*.pem
+id_rsa*
+
+# ─────────────────────────────────────────────────────────────
+# Python / tooling caches
+# ─────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Third-party GCR baseline clone — see patches/ + README (not re-hosted)
+gcr_base/
+
+# Paper / LaTeX deliverables — kept out of the public code repo
+paper/
+paper_kbs/
+results/submission/
+*.tex
+*.bib
+*.cls
+*.sty
+*.bst
+*.bbl
